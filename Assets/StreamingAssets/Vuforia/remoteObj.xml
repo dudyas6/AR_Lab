@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="remoteObj" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="remoteObjs_assembly" assemblyId="8b3b68bd3c32465a81f503da231e101f">
+<Part name="remoteObj" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="front1" translation="0.00208178 -0.000579848 0.111716" rotation="AD: 0.994538 -0.196116 0.663473 207.279" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

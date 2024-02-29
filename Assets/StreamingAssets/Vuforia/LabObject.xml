@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="LabObject" motionHint="static" trackingMode="car" optimizeTrackingFor="low_feature_objects"/>
+
+</Tracking>
+
+<Assembly name="LabObjects_assembly" assemblyId="bc136e58a69144389eea01ad6db67cc8">
+<Part name="LabObject" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="front1" translation="-0.0768775 0.18763 2.14078" rotation="AD: 0.42937 -0.922709 4.87661 181.869" trained="no">
+
+</EntryPoint>
+<EntryPoint name="front2" translation="-0.0255022 0.197565 3.27903" rotation="AD: -0.856827 -0.535635 3.6185 176.133" trained="no">
+
+</EntryPoint>
+<EntryPoint name="back1" translation="0.0933418 0.163669 2.71724" rotation="AD: 0.999951 0.0374145 -0.276206 194.868" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0000" translation="-0.000107474 0.179422 5.29615" rotation="AD: -8.78534e-18 -1.0209 4.96728 180" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0.000342399 0.184136 5.28395" rotation="AD: -0.93983 -0.37665 2.20852 172.451" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0.000579156 0.177294 5.30096" rotation="AD: 0.988868 0.215568 -0.987203 197.367" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.000495017 0.176101 5.30352" rotation="AD: 0.999302 0.0967839 -0.430521 203.242" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="0.000101963 0.167517 5.31959" rotation="AD: 1 -0.00130208 0.00475655 210.618" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0005" translation="-0.000305027 0.174446 5.30691" rotation="AD: 0.99952 -0.0893235 0.3809 204.637" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0006" translation="-0.000580066 0.163984 5.32529" rotation="AD: 0.980087 -0.29105 0.991124 202.853" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

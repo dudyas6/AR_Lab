@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.21.3">
+<ModelTarget name="Kad2" targetId="a574ec65986d47b2873db347de314b37" version="14.0" toolVersion="10.21.3" bbox="-0.258291 1.265384 -0.092837 -0.186744 1.364706 -0.020417" previewImage="a574ec65986d47b2873db347de314b37_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Kad2s_assembly" assemblyId="2e9aabff8b2e45b480286c219fc95ebc">
+<Part name="Kad2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="front" translation="-0.0543328 1.28853 0.678667" rotation="AD: 0.999443 0.0489436 -0.933871 184.383" image="Kad2_front.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
