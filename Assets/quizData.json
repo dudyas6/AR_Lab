@@ -1,0 +1,173 @@
+{
+  "Questions": [
+    {
+      "question": "What is IO-Link?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "A communication interface requiring an IO-Link master for operation.",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "answer": "An internet link.",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "answer": "A cable for pressure.",
+          "isCorrect": false
+        }
+      ],
+      "answerLocation": "3D Mode -> Click on IO Link, page 1"
+    },
+
+    {
+      "question": "What action can be performed with the 'set' button?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Setting parameter values.",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "answer": "Selecting parameters.",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "answer": "Acknowledging parameter values.",
+          "isCorrect": false
+        }
+      ],
+      "answerLocation": "3D Mode -> Set Button"
+    },
+    {
+      "question": "What is the function of the 'mode' button?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Selecting parameters and acknowledging values.",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "answer": "Setting parameter values.",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "answer": "Displaying system pressure.",
+          "isCorrect": false
+        }
+      ],
+      "answerLocation": "3D Mode -> Mode Button"
+    },
+    {
+      "question": "What is the purpose of IO-Link?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "To provide direct access to process and diagnostic data.",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "answer": "To facilitate internet connectivity.",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "answer": "To measure pressure in cables.",
+          "isCorrect": false
+        }
+      ],
+      "answerLocation": "3D Mode -> Click on IO Link, page 1"
+    },
+    {
+      "question": "What information does the right mount provide?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Instructions for fixing the unit with screws to the rear panel.",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "answer": "Details about system pressure.",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "answer": "Details about display settings.",
+          "isCorrect": false
+        }
+      ],
+      "answerLocation": "3D Mode -> Right Mount"
+    },
+    {
+      "question": "What is the purpose of the left mount?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Fixing the unit with screws to the rear panel.",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "answer": "Adjusting system pressure.",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "answer": "Displaying output status.",
+          "isCorrect": false
+        }
+      ],
+      "answerLocation": "3D Mode -> Left Mount"
+    },
+    {
+      "question": "What information does the display panel provide?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "System pressure, differential pressure, and output status.",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "answer": "Internet connectivity details.",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "answer": "Instructions for fixing the unit.",
+          "isCorrect": false
+        }
+      ],
+      "answerLocation": "3D Mode -> Display Panel"
+    },
+    {
+      "question": "What can be found on page 2 of the IO-Link info?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Information about the IO-Link interface.",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "answer": "Instructions for setting parameter values.",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "answer": "Details about system pressure.",
+          "isCorrect": false
+        }
+      ],
+      "answerLocation": "3D Mode -> IO Link, page 2"
+    }
+  ]
+}

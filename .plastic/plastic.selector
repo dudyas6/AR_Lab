@@ -1,0 +1,4 @@
+repository "VuforiaProj@PoiZex@cloud"
+  path "/"
+    br "/main"
+    co "/main"
